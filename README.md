@@ -95,3 +95,8 @@ html
     LinkedIn : linkedin.com/in/votreprofil
 
     GitHub : github.com/votreusername
+
+<div align="center">
+
+✨ N'hésitez pas à visiter le site et à me contacter ! ✨
+</div>
