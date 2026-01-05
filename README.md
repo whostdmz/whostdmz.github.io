@@ -27,16 +27,17 @@ Portfolio personnel présentant mes projets de développement logiciel et web, m
 text
 
 portfolio/
-├── main.html          # Page principale
-├── style.css          # Feuille de style
-├── main.js          # JavaScript principal
-├── load_theme.js
-├── cv_stage_fr.pdf
-├── public.asc        #clé publique
+├── main.html                    # Page principale
+├── style.css                    # Feuille de style principale
+├── main.js                      # JavaScript principal
+├── load_theme.js                # Gestion du thème clair/sombre
+├── cv_stage_fr.pdf              # CV en français
+├── public.asc                   # Clé publique PGP
 ├── assets/
-│   ├── photodemoi.jpg
-│   ├── refresh-dark.svg
-└── README.md          # Documentation
+│   ├── photodemoi.jpg           # Photo de profil
+│   └── refresh-dark.svg         # Icône pour le mode sombre
+└── README.md                    # Documentation
+
 
 📫 Contact
 
