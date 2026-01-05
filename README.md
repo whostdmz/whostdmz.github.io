@@ -1,12 +1,5 @@
 Portfolio Développeur Web
-<div align="center">
-
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge
-</div>
+<div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge" alt="Responsive Design"> </div>
 📋 Description
 
 Portfolio personnel présentant mes projets de développement web, mes compétences techniques et mon parcours professionnel.
@@ -66,28 +59,6 @@ start index.html
 # Sous Linux :
 xdg-open index.html
 
-🎨 Personnalisation
-
-    Modifiez index.html pour vos informations personnelles
-
-    Ajoutez vos projets dans la section dédiée
-
-    Personnalisez les couleurs dans style.css
-
-    Mettez à jour les liens de contact
-
-📸 Aperçu
-html
-
-<!-- Section projet exemple -->
-<div class="projet">
-  <h3>Nom du Projet</h3>
-  <p>Description du projet</p>
-  <span class="techno">HTML</span>
-  <span class="techno">CSS</span>
-  <span class="techno">JavaScript</span>
-</div>
-
 📫 Contact
 
     Email : contact@exemple.com
@@ -98,5 +69,5 @@ html
 
 <div align="center">
 
-✨ N'hésitez pas à visiter le site et à me contacter ! ✨
+✨ Visitez le site et n'hésitez pas à me contacter ! ✨
 </div>
