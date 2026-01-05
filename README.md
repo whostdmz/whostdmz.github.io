@@ -23,22 +23,6 @@ Portfolio personnel présentant mes projets de développement logiciel et web, m
 
     Git/GitHub - Gestion de version
 
-📁 Structure du Projet
-text
-
-portfolio/
-├── main.html                    # Page principale
-├── style.css                    # Feuille de style principale
-├── main.js                      # JavaScript principal
-├── load_theme.js                # Gestion du thème clair/sombre
-├── cv_stage_fr.pdf              # CV en français
-├── public.asc                   # Clé publique PGP
-├── assets/
-│   ├── photodemoi.jpg           # Photo de profil
-│   └── refresh-dark.svg         # Icône pour le mode sombre
-└── README.md                    # Documentation
-
-
 📫 Contact
 
     Email : thomasdiemoz@gmail.com
